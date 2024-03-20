@@ -18,3 +18,5 @@ $ npm run build
 Response Postman
 
 ![Screenshot 2024-03-20 at 16 13 42](https://github.com/aspsptyd/rest-api-nodejs/assets/98740335/4a4b3195-dbf3-486d-8349-7d931fa09ddc)
+
+Notes: If any change in `dev` and update to `production` or `build` you just execute this command -> `npm run build` -> and you must re-run `node build/index.js`
