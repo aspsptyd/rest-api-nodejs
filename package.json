@@ -6,7 +6,8 @@
   "scripts": {
     "start": "npx tsc -w",
     "dev": "npx nodemon",
-    "build": "tsc"
+    "build": "tsc",
+    "format": "prettier --write ."
   },
   "author": "Asep Septiadi",
   "license": "ISC",
@@ -22,6 +23,7 @@
     "eslint-plugin-node": "^11.1.0",
     "eslint-plugin-promise": "^6.1.1",
     "eslint-plugin-standard": "^5.0.0",
+    "prettier": "3.2.5",
     "ts-node": "^10.9.2",
     "typescript": "^5.4.2"
   },
