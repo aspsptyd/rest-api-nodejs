@@ -2,7 +2,7 @@
 Source learn: https://www.youtube.com/playlist?list=PLmF_zPV9ZcP2mvls-O0fHjLpfJ6UUpfbP
 
 ```shell
-# Develop runner
+# Run for develop
 $ npm run dev
 ```
 
