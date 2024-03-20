@@ -14,3 +14,7 @@ $ npm run build
 ```
 
 ![Screenshot 2024-03-20 at 16 11 05](https://github.com/aspsptyd/rest-api-nodejs/assets/98740335/e516524c-09b2-4a67-9956-20d951e3ae65)
+
+Response Postman
+
+![Screenshot 2024-03-20 at 16 13 42](https://github.com/aspsptyd/rest-api-nodejs/assets/98740335/4a4b3195-dbf3-486d-8349-7d931fa09ddc)
