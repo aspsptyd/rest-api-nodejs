@@ -6,8 +6,8 @@ const port: Number = 4000
 app.use('/', (req: Request, res: Response, next: NextFunction) => {
   res.status(200).send({
     code: 200,
-    message: 'Response success!'
+    message: 'Response success! in development'
   })
 })
-
+// eslint-disable-next-line @typescript-eslint/restrict-template-expressions
 app.listen(port, () => console.log(`Server is listening on port ${port}`))
